@@ -6,7 +6,7 @@
 <img width="964" alt="Animal- dog-cat Inheritance example" src="https://github.com/jaimehernan95/Animal-Dog-Cat-Inheritance-Example-Java/blob/master/images/inheritance.png">
 
 
- ** hackerrank website provides concepts about Inheritance,  Subclass and Subclass Constructors **
+ **hackerrank website provides concepts about _Inheritance,  Subclass and Subclass Constructors_**
 
 ###  Inheritance
 
@@ -22,7 +22,7 @@ Synonymous terms: derived class, extended class, child class.
 Because a constructor initializes an instance of a class, they are never inherited; however, the subclass must call a superclass constructor as it is an extension of a superclass object. This can be done in either of the two ways shown below.
 
 
-*** Consider the following class: ***
+***Consider the following class:***
 
 class MySuperclass{
     // superclass instance variable:
@@ -72,5 +72,6 @@ When overriding a method, it is best practice to precede the method with the @Ov
 This function is convenient because I used to build simple servelts websites and re use the same code.
 
 ### Source:
-** hackerrank website **
-https://www.hackerrank.com/challenges/30-inheritance/tutorial, Accessed on March 30, 2020
+
+**hackerrank website**
+https://www.hackerrank.com/challenges/30-inheritance/tutorial, _Accessed on March 30, 2020_
